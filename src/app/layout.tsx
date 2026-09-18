@@ -32,6 +32,7 @@ export const metadata: Metadata = {
   },
   other: {
     "d18eba2d0076b23": "9773ee2e71e05045b37c5dade7f4b18b",
+    "impact-site-verification": "393eed62-4e84-48e6-ade7-8a3b48224de7",
   },
   robots: {
     index: true,
