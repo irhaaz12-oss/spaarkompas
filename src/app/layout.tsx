@@ -49,6 +49,12 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       lang="nl"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
+      <head>
+        <meta
+          name="impact-site-verification"
+          {...{ value: "393eed62-4e84-48e6-ade7-8a3b48224de7" }}
+        />
+      </head>
       <body className="flex min-h-full flex-col bg-slate-50 text-slate-900">
         <AffiliateBanner />
         <Header />
