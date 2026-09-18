@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     description: siteConfig.description,
   },
   other: {
-    daisycon: "828e4d89490d01f66deba2d0076b23a8e4eea54e1fde21d0806cad18eba2d0076b23a8e4eea54ec8754b10054af75e27c4753f639d7bdbb45c2d07307e96c5828e4d89490d01f66da96c3caf42939d90541fde21d082df0cb6b9f86f1db235d90",
+    "d18eba2d0076b23": "9773ee2e71e05045b37c5dade7f4b18b",
   },
   robots: {
     index: true,
